@@ -1,0 +1,10 @@
+[user]
+	name = lewxx
+	email = me@lewxx.com
+	signingkey = 0x161607A14A7E54F9
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[init]
+	defaultBranch = main
